@@ -1,0 +1,101 @@
+.footer
+{
+  background-color: #238ffc;
+  padding: 1px 40px;
+  margin-right: 13px;
+}
+
+header{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100px;
+  display: inline-flex;
+  text-align: center;
+  display: inline;
+  background-color: #3884ff;
+}
+body
+{
+  background-color: #dddddd;
+}
+h1
+{
+  margin-left: 30px;
+}
+.menu
+{
+  width: 100%;
+  text-align: center;
+  margin-top: -4px;
+  background-color: #232222;
+}
+.menu li
+{
+  display: inline-flex;
+  text-align: center;
+}
+.menu li a
+{
+  text-align: center;
+  position: relative;
+  color: #dbdbdb;
+  margin-right: 1px;
+  padding: 1px 46px;
+  font-size: 20px;
+}
+.menu li a:hover
+{
+  background-color: #04509b;
+}
+.products
+{
+  margin-top: 30px;
+  background-color: white;
+  margin-right: 20px;
+  display: inline-block;
+}
+.centralwindow
+{
+  width: 100%;
+  height: auto;
+  margin-top: 100px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  display: inline-block;
+  text-align: center;
+  background-color: #dddddd;
+}
+
+.image
+{
+  height: 445px;
+  width: 245px;
+  display: inline-block;
+  margin: 0 auto;
+}
+.price
+{
+  margin-right: 25px;
+  margin-top: 5px;
+  display: inline;
+}
+.image2
+{
+  width: 240px;
+  height: 30px;
+}
+a
+{
+  text-decoration: none;
+}
+.products p
+{
+  color: black;
+}
+form
+{
+  margin-top : 130px;
+  margin-left: 200px;
+}
